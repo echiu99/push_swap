@@ -22,7 +22,7 @@ make
 ## Usage
 Run the program by providing a list of integers as arguments. The program outputs the sequence of operations required to sort the integers in ascending order.
 
-## Example:
+### Example:
 ```
 ./push_swap 4 3 2 1  
 ```
